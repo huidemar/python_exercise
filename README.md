@@ -1,33 +1,5 @@
 # python_exercise
 
-# English
-<h2>List of Python Exercises</h1>
-<h3>The level of difficulty will gradually increase.</h3>
-
-# Sequential Structure
-
-<ol>
-<li> Make a program that displays the message "Hello world" on the screen.</li>
-<li> Make a program that asks for a number and then displays the message The number entered was [number].</li>
-<li> Make a Program that asks for two numbers and prints the sum.</li>
-<li> Make a Program that asks for the 4 bimonthly notes and shows the average.</li>
-<li> Make a Program that converts meters to centimeters.</li>
-<li> Make a Program that asks for the radius of a circle, calculate and show its area.</li>
-<li> Make a program that calculates the area of ​​a square, then show twice the area to the user.</li>
-<li> Make a Program that asks how much you earn per hour and the number of hours worked in the month. Calculate and show your total salary for that month.</li>
-<li> Make a Program that asks for the temperature in degrees Farenheit, transform and show the temperature in degrees Celsius. </li>
-C = (5 * (F-32) / 9).
-<li> Make a Program that asks for the temperature in degrees Celsius, transform it and show it in Farenheit degrees. </li>
-</ol>
-
-
-
-
-# Reference
-[Wiki Python Org Br](https://wiki.python.org.br/ListaDeExercicios)
-
-
-# Português
 <h2>Lista de Exercícios de Python</h1>
 <h3>O nível de dificuldade irá aumentar gradualmente.</h3>
 
@@ -50,3 +22,4 @@ C = (5 * (F-32) / 9).
 # Referência
 [Wiki Python Org Br](https://wiki.python.org.br/ListaDeExercicios)
 
+Clique em [Estrutural Sequencial](https://www.youtube.com/watch?v=NzOyjklFEQA&list=PL2THVkZjzTLcfG105nmWOxI7DVF3H3O0D) para ter acesso aos exercícios resolvidos no YouTube.
